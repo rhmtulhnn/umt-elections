@@ -1,16 +1,19 @@
-# umt_elections
+## umt-elections
+![Cover](./cover-elections.png)
 
-Suara UMT is an integrated electronic voting platform for student voice expression and internal elections at University of Muhammadiyah Tangerang. It uses student ID authentication, two-stage election verification for the Student Executive Board (BEM) and Senate, and a real-time analytics dashboard for transparency.
+---
 
-## Getting Started
+**Suara UMT** is an integrated electronic voting platform for student voice expression and internal elections at University of Muhammadiyah Tangerang. It uses student ID authentication, two-stage election verification for the Student Executive Board (BEM) and Senate, and a real-time analytics dashboard for transparency.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+### Author
+**Rahmatul Hannan**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [🧑‍💻 GitHub](https://github.com/rhmtulhnn)
+- [📸 Instagram](https://instagram.com/rhmcodes)
+- [🟣 ORCID ID](https://orcid.org/0009-0003-7956-3737)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+> _All rights reserved. UMT Elections App Design © 2026._
