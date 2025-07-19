@@ -10,7 +10,10 @@ class WelcomeScreen extends StatelessWidget {
       body: Center(
         child: Text(
           'Welcome Screen',
-          style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+          style: TextStyle(
+            fontSize: 24,
+            fontWeight: FontWeight.normal,
+          ),
         ),
       ),
     );

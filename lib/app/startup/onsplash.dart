@@ -28,8 +28,8 @@ class _SplashScreenState extends State<SplashScreen> {
       body: Center(
         child: Image.asset(
           'assets/images/logo-app.png',
-          width: MediaQuery.of(context).size.width * 0.54,
-          height: MediaQuery.of(context).size.height * 0.54,
+          width: MediaQuery.of(context).size.width * 0.34,
+          height: MediaQuery.of(context).size.height * 0.34,
         ),
       ),
     );

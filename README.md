@@ -1,4 +1,4 @@
-## umt-elections
+## UMT Elections
 ![Cover](./cover-elections.png)
 
 ---

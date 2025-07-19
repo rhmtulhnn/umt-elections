@@ -15,7 +15,7 @@ class Elections extends ConsumerWidget {
 
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
-      title: 'Sawit Monitor',
+      title: 'UMT Elections',
       routerConfig: router,
     );
   }
